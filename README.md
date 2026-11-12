@@ -11,3 +11,5 @@
 Jack pocket
 
 In the money
+
+Git과 GitHub 연습용 저장소입니다.
